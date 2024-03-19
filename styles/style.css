@@ -104,7 +104,7 @@ body {
     padding: 11px;
     box-sizing: border-box;
     border-radius: 5px;
-    width: 45px;
+    min-width: 45px;
     height: 45px;
     text-align: center;
     cursor: pointer;
